@@ -104,13 +104,13 @@ input:placeholder{
 	left: 50%;
 	transform: translateX(-50%);
 	position: absolute;
-	bottom: 66px;
+	bottom: 10%;
 	background: #7f7f7f;
 }
 .wj{
 	width: 100px;
 	position: absolute;
-	bottom: 30px;
+	bottom: 5%;
 	left: 50%;
 	transform: translateX(-50%);
 	text-align: center;
